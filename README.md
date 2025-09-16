@@ -1,6 +1,6 @@
 # Deep Learning-Based WWR and Floor Count Extraction from Façade Images to Improve UBEM
 
-[Ayca Duran](https://systems.arch.ethz.ch/ayca-duran), [Panagiotis Karapiperis]([https://systems.arch.ethz.ch/christoph-waibel](https://www.linkedin.com/in/panagiotis-karapiperis-ethz/)), [Christoph Waibel](https://systems.arch.ethz.ch/christoph-waibel), [Arno Schlueter](https://systems.arch.ethz.ch/arno-schlueter)
+[Ayca Duran](https://systems.arch.ethz.ch/ayca-duran), [Panagiotis Karapiperis](https://www.linkedin.com/in/panagiotis-karapiperis-ethz/), [Christoph Waibel](https://systems.arch.ethz.ch/christoph-waibel), [Arno Schlueter](https://systems.arch.ethz.ch/arno-schlueter)
 
 [[ Paper ]](tba) – CISBAT 2025
 
